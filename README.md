@@ -23,7 +23,7 @@
 
 Iam doing my BSCS from FAST-NUCES Islamabad, A passionate Computer Scientist to be. I aspires to be a Web Developer for which I am struggling and making my hands dirty on different languages. My ultimate interest is to create such technology that will elevate people and build community. I love doing coding in Java & C++.
 
-Skills: Java | C/C++ | C# | ASP.NET Core | HTML5 | CSS3  | JavaScript | MySQL | MongoDB | Oracle 
+Skills: Java | C/C++ | C# | ASP.NET Core | HTML5 | CSS3  | JavaScript | MySQL | MongoDB | Oracle | Node Js | React Js | Express
 - 🌱 I’m currently learning frameworks of Web Development and MERN Stack 
 - 🔭 I’m exploring the vast world of Cloud Computing
 
